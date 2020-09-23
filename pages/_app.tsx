@@ -1,4 +1,5 @@
 import App from 'next/app'
+import '../styles/globals.css'
 import { TinaCMS, TinaProvider } from 'tinacms'
 import { GithubClient, TinacmsGithubProvider } from 'react-tinacms-github'
 
