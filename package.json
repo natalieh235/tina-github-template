@@ -18,6 +18,8 @@
     "tinacms": "^0.29.0"
   },
   "devDependencies": {
-    "hygen-next-tinacms-github": "https://github.com/dwalkr/hygen-next-tinacms-github"
+    "@types/node": "^14.11.2",
+    "hygen-next-tinacms-github": "https://github.com/dwalkr/hygen-next-tinacms-github",
+    "typescript": "^4.0.3"
   }
 }

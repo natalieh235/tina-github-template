@@ -7,3 +7,4 @@ export default function Authorizing() {
 
   return <h2>Authorizing with GitHub, please wait...</h2>
 }
+
